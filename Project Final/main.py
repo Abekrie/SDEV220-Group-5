@@ -3,7 +3,7 @@ import tkinter as tk
 # Define a function to read the words from the file and display them in the text box
 def read_file():
     # Open the file for reading
-    with open('test.txt', 'r') as file:
+    with open('YourKeywords.txt', 'r') as file:
         # Read the file contents into a string
         file_contents = file.read()
         # Split the string into individual words
