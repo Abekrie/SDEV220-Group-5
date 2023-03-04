@@ -1,0 +1,4 @@
+            <div class="container">
+                <h1><a href="/">Django Girls Blog</a></h1>
+            </div>
+        <title>Django Girls blog</title>
